@@ -1,0 +1,39 @@
+.bg{
+    background-color: #000000;
+    color: #B4ABAB;
+    height: 100vh;
+}
+.c1{
+   width: 75%;
+   margin-top: 20px;
+}
+.c1 h4{
+   display: flex;
+   justify-content: center;
+}
+.c1 p{
+    display: flex;
+    justify-content: center;
+}
+.bt{
+   margin-left: 40%;
+}
+.c2{
+   background-color: #181818;
+   border-radius: 15px;
+   margin-left: 525px;
+   margin-right: 50px;
+   width: 500px;
+   padding: 20px;  
+}
+.c2f{
+    display: flex;
+    justify-content: center;
+}
+.c2f input{
+    background-color: #0A0909;
+    border: none;
+}
+.c2f input:hover{
+    background-color: #0A0909;
+}
